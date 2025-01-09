@@ -4,7 +4,7 @@
 
 This model preprocesses textual data, tokenizes it into words, and builds a vocabulary mapping words to unique IDs for further natural language processing tasks.
 
-# Project Implementation and Workflow**
+# Project Implementation and Workflow
 
 **Preprocessing:** Converts text to lowercase.Removes punctuation and extra whitespace.
 
