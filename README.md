@@ -1,6 +1,6 @@
 # Word-Level Tokenizer
 
-# About the Project
+**About the Project**
 
 This model preprocesses textual data, tokenizes it into words, and builds a vocabulary mapping words to unique IDs for further natural language processing tasks.
 
